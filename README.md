@@ -19,6 +19,6 @@ Este proyecto fue desarrollado por un equipo de personas dedicadas. A continuaci
 - **Hector Vega** 
   - GitHub: [TETvega](https://github.com/TETvega)
 
-- **Ana Gómez** 
+- **Anner Henriquez** 
   - GitHub: [annerh3](https://github.com/annerh3)
 
