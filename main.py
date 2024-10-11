@@ -1,5 +1,1 @@
-class MyClass:
-    pass
-
-clase = MyClass()
-print(clase)
+# Archivo principal que ejecuta el programa
