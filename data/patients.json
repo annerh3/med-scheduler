@@ -86,5 +86,33 @@
         "email": "user",
         "password": "user",
         "medical_history": []
+    },
+    {
+        "name": "Cristian Gómez",
+        "email": "crgomez@gmail.com",
+        "password": "1234",
+        "medical_history": []
+    },
+    {
+        "name": "Josh",
+        "email": "josh@yahoo.com",
+        "password": "josh123",
+        "medical_history": [
+            "gran riata"
+        ]
+    },
+    {
+        "name": "Kit Connor",
+        "email": "connor23@gmail.com",
+        "password": "hopper",
+        "medical_history": [
+            "beign so hot"
+        ]
+    },
+    {
+        "name": "Charli XCX",
+        "email": "xcx_charli@hotmail.com",
+        "password": "brat",
+        "medical_history": []
     }
 ]

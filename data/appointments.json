@@ -1,0 +1,92 @@
+[
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dr. Carlos Gómez",
+        "appointment_time": {
+            "date_time": "2024-10-14T09:00:00"
+        },
+        "specialty": "Ginecología",
+        "office": "Consultorio 2C"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dra. Lucía Ramírez",
+        "appointment_time": {
+            "date_time": "2024-10-15T01:00:00"
+        },
+        "specialty": "Dermatología",
+        "office": "Consultorio 4D"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dra. Ana Torres",
+        "appointment_time": {
+            "date_time": "2024-10-15T12:00:00"
+        },
+        "specialty": "Pediatría",
+        "office": "Consultorio 1B"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dra. Ana Torres",
+        "appointment_time": {
+            "date_time": "2024-10-15T10:00:00"
+        },
+        "specialty": "Pediatría",
+        "office": "Consultorio 1B"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dr. Juan Pérez",
+        "appointment_time": {
+            "date_time": "2024-10-14T09:00:00"
+        },
+        "specialty": "Cardiología",
+        "office": "Consultorio 3A"
+    },
+    {
+        "patient_name": "Anner",
+        "doctor_name": "Dr. Juan Pérez",
+        "appointment_time": {
+            "date_time": "2024-10-14T10:00:00"
+        },
+        "specialty": "Cardiología",
+        "office": "Consultorio 3A"
+    },
+    {
+        "patient_name": "Anner",
+        "doctor_name": "Dr. Juan Pérez",
+        "appointment_time": {
+            "date_time": "2024-10-14T11:00:00"
+        },
+        "specialty": "Cardiología",
+        "office": "Consultorio 3A"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dr. Juan Pérez",
+        "appointment_time": {
+            "date_time": "2024-10-14T03:00:00"
+        },
+        "specialty": "Cardiología",
+        "office": "Consultorio 3A"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dr. Juan Pérez",
+        "appointment_time": {
+            "date_time": "2024-10-14T02:00:00"
+        },
+        "specialty": "Cardiología",
+        "office": "Consultorio 3A"
+    },
+    {
+        "patient_name": "usuario",
+        "doctor_name": "Dr. Carlos Gómez",
+        "appointment_time": {
+            "date_time": "2024-10-14T08:00:00"
+        },
+        "specialty": "Ginecología",
+        "office": "Consultorio 2C"
+    }
+]

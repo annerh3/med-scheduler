@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Dr. Juan Pérez",
+        "email": "juanperez@example.com",
+        "password": "doctor123",
+        "specialty": "Cardiología",
+        "office": "Consultorio 3A",
+        "role": "Doctor",
+        "appointments": []
+    },
+    {
+        "name": "Dra. Ana Torres",
+        "email": "anatorres@example.com",
+        "password": "doctor456",
+        "specialty": "Pediatría",
+        "office": "Consultorio 1B",
+        "role": "Doctor",
+        "appointments": []
+    },
+    {
+        "name": "Dr. Carlos Gómez",
+        "email": "carlosgomez@example.com",
+        "password": "doctor789",
+        "specialty": "Ginecología",
+        "office": "Consultorio 2C",
+        "role": "Doctor",
+        "appointments": [
+            {
+                "date_time": "2024-10-14T01:00:00"
+            },
+            {
+                "date_time": "2024-10-16T09:00:00"
+            }
+        ]
+    },
+    {
+        "name": "Dra. Lucía Ramírez",
+        "email": "luciaramirez@example.com",
+        "password": "doctor101",
+        "specialty": "Dermatología",
+        "office": "Consultorio 4D",
+        "role": "Doctor",
+        "appointments": [
+            {
+                "date_time": "2024-10-15T11:00:00"
+            },
+            {
+                "date_time": "2024-10-15T12:00:00"
+            },
+            {
+                "date_time": "2024-10-16T11:00:00"
+            },
+            {
+                "date_time": "2024-10-16T12:00:00"
+            }
+        ]
+    },
+    {
+        "name": "Carlos García",
+        "email": "carlosgarcia@example.com",
+        "password": "admin123",
+        "role": "Administrativo"
+    },
+    {
+        "name": "Laura Martínez",
+        "email": "lauramar@example.com",
+        "password": "admin456",
+        "role": "Administrativo"
+    },
+    {
+        "name": "Miguel Torres",
+        "email": "migueltorres@example.com",
+        "password": "admin789",
+        "role": "Administrativo"
+    },
+    {
+        "name": "Sofía López",
+        "email": "sofilopez@example.com",
+        "password": "admin101",
+        "role": "Administrativo"
+    }
+]
