@@ -6,7 +6,11 @@
         "specialty": "Cardiología",
         "office": "Consultorio 3A",
         "role": "Doctor",
-        "appointments": []
+        "appointments": [
+            {
+                "date_time": "2024-10-14T02:00:00"
+            }
+        ]
     },
     {
         "name": "Dra. Ana Torres",

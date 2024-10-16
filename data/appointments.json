@@ -73,15 +73,6 @@
     },
     {
         "patient_name": "usuario",
-        "doctor_name": "Dr. Juan Pérez",
-        "appointment_time": {
-            "date_time": "2024-10-14T02:00:00"
-        },
-        "specialty": "Cardiología",
-        "office": "Consultorio 3A"
-    },
-    {
-        "patient_name": "usuario",
         "doctor_name": "Dr. Carlos Gómez",
         "appointment_time": {
             "date_time": "2024-10-14T08:00:00"

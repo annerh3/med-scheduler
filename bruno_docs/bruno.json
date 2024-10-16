@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "GetPassword",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

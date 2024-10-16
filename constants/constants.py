@@ -1,13 +1,9 @@
-
-
-
 from controllers.admin_menu import admin_menu
 from controllers.doctor_menu import doctor_menu
 from controllers.patients_menu import patients_menu
 
 # Mensajes
 LOGIN_FAILED_MESSAGE = "Inicio de sesión fallido. Intente nuevamente."
-
 
 # Archivos de datos
 PATIENTS_DATA_FILE = "data/patients.json"

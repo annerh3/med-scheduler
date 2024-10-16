@@ -77,7 +77,7 @@ class UserService:
 
             if authenticatedUser is None:
                 input(
-                    "\033[93m" + " !! Paciente no encontrado. Intente nuevamente . . ." + "\033[0m")
+                    "\033[93m" + " !! Usuario no encontrado. Intente nuevamente . . ." + "\033[0m")
                 system("cls")
                 continue  # volver al inicio del bucle while
 
@@ -90,17 +90,21 @@ class UserService:
                 time.sleep(1); system("cls");
                 
                 system("cls")
-                # Verificar si 'role' no está en el objeto
-                if not hasattr(authenticatedUser, 'role'):
-                    print("Este es un Paciente")
-                    patients_menu(authenticatedUser)
-                    
                 
                 # llamar a la funcion usando el diccionario y pasando el usuario como prametro
                 if authenticatedUser['role'] in ROLE_MENU_MAPPING:
+                    print("Este es un Emplead/Doctor")
                     ROLE_MENU_MAPPING[authenticatedUser['role']](authenticatedUser)  # Llama a la función pasando authenticatedUser
+                    break
                 else:
                      print("\033[91m" + "Rol no reconocido." + "\033[0m")
+                     
+                if not hasattr(authenticatedUser, 'role'): # Verificar si 'role' no está en el objeto
+                    print("Este es un Paciente")
+                    patients_menu(authenticatedUser) # menu de paciente
+                    break
+                    
+                
 
                 
                     
