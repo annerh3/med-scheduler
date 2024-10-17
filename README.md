@@ -4,7 +4,7 @@
 ## 🌟 Características 
 - **Registro de pacientes**: permite a los pacientes crear una cuenta y almacenar su información de forma segura.
 - **Programación de citas**: los pacientes pueden reservar citas con los médicos, especificando la fecha y la hora.
-- **Funciones de administración**: los administradores pueden registrar nuevos médicos y gestionar los registros de pacientes existentes.
+- **Funciones de administración**: los administradores pueden registrar nuevos médicos y gestionar los registros de pacientes existentes.  !! PENDIENTE
 - **Almacenamiento de datos**: todos los datos de pacientes, médicos y citas se almacenan en archivos JSON, lo que garantiza la persistencia de los datos entre sesiones.
 - **Interfaz fácil de usar**: una sencilla interfaz de consola basada en menús guía a los usuarios a través de las funciones de la aplicación.
 
