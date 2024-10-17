@@ -114,5 +114,11 @@
         "email": "xcx_charli@hotmail.com",
         "password": "brat",
         "medical_history": []
+    },
+    {
+        "name": "José Palencia",
+        "email": "jpalencia@unah.hn.edu",
+        "password": "porPLacer2024",
+        "medical_history": []
     }
 ]
