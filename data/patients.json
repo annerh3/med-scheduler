@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Juan Pérez",
+        "email": "juan.perez@example.com",
+        "password": "123456",
+        "medical_history": [
+            "Hipertensión",
+            "Alergia al polen"
+        ]
+    },
+    {
+        "name": "María Gómez",
+        "email": "maria.gomez@example.com",
+        "password": "abcdef",
+        "medical_history": [
+            "Diabetes",
+            "Problemas de tiroides"
+        ]
+    },
+    {
+        "name": "Carlos Martínez",
+        "email": "carlos.martinez@example.com",
+        "password": "pass123",
+        "medical_history": [
+            "Asma",
+            "Alergia a los mariscos"
+        ]
+    },
+    {
+        "name": "Luisa Fernández",
+        "email": "luisa.fernandez@example.com",
+        "password": "qwerty",
+        "medical_history": [
+            "Fractura de pierna en 2022",
+            "Problemas de colesterol"
+        ]
+    },
+    {
+        "name": "Anner",
+        "email": "annerh3@gmail.com",
+        "password": "cabwimht",
+        "medical_history": []
+    },
+    {
+        "name": "Omar Gomez",
+        "email": "omarg@yahoo.com",
+        "password": "temp123",
+        "medical_history": [
+            "Alergia la polvo",
+            "Diabetico"
+        ]
+    },
+    {
+        "name": "Hector",
+        "email": "tetVega@unah.hn",
+        "password": "gertrudis08",
+        "medical_history": [
+            "Me la fumo bien verde",
+            "Me mama Ensamblador"
+        ]
+    },
+    {
+        "name": "Osmaro Sevilla",
+        "email": "osmarosev@gmail.com",
+        "password": "temp123",
+        "medical_history": [
+            "hipertenso"
+        ]
+    },
+    {
+        "name": "Juana de Arco",
+        "email": "juanarco@gmail.com",
+        "password": "bruja68",
+        "medical_history": []
+    },
+    {
+        "name": "Maria",
+        "email": "mariaDB@gmail.com",
+        "password": "coca-cola",
+        "medical_history": [
+            "ser la mera verga"
+        ]
+    },
+    {
+        "name": "usuario",
+        "email": "user",
+        "password": "user",
+        "medical_history": []
+    },
+    {
+        "name": "Cristian Gómez",
+        "email": "crgomez@gmail.com",
+        "password": "1234",
+        "medical_history": []
+    },
+    {
+        "name": "Josh",
+        "email": "josh@yahoo.com",
+        "password": "josh123",
+        "medical_history": [
+            "gran riata"
+        ]
+    },
+    {
+        "name": "Kit Connor",
+        "email": "connor23@gmail.com",
+        "password": "hopper",
+        "medical_history": [
+            "beign so hot"
+        ]
+    },
+    {
+        "name": "Charli XCX",
+        "email": "xcx_charli@hotmail.com",
+        "password": "brat",
+        "medical_history": []
+    },
+    {
+        "name": "José Palencia",
+        "email": "jpalencia@unah.hn.edu",
+        "password": "porPLacer2024",
+        "medical_history": []
+    }
+]

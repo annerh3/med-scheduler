@@ -1,1 +1,0 @@
-# Menú principal y funciones de interacción con el usuario
