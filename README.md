@@ -1,6 +1,12 @@
 # 🩺MedScheduler 
 **MedScheduler** es una aplicación de consola basada en Python diseñada para gestionar citas médicas en una clínica. Este programa permite a los pacientes registrarse, programar citas con los médicos y proporciona a los administradores la capacidad de gestionar la información de los pacientes y los médicos.
+## Como instalar dependencias
+Install MedScheduler Dependencies with pip
 
+```bash
+  Install using: pip install -r requirements.txt
+```
+    
 ## 🌟 Características 
 - **Registro de pacientes**: permite a los pacientes crear una cuenta y almacenar su información de forma segura.
 - **Programación de citas**: los pacientes pueden reservar citas con los médicos, especificando la fecha y la hora.
